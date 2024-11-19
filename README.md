@@ -14,8 +14,14 @@ Sur l'onglet de la page on affiche le prix du panier qui s'actualise.
 
 # Captures d'écrans : 
 
+plan géneral :
+
 ![Capture2](https://github.com/user-attachments/assets/a4ec692d-e444-4ced-be61-f71b78d512d3)
 
+plan header + panier :
+
 ![Capture](https://github.com/user-attachments/assets/bd7ac726-b7dc-4053-b609-140702f4e7ee)
+
+plan footer : 
 
 ![Capture1](https://github.com/user-attachments/assets/2602b90f-bd57-4538-9227-8c0120ee11f7)
