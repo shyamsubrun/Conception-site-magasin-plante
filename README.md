@@ -20,8 +20,8 @@ plan géneral :
 
 plan header + panier :
 
-![Capture](https://github.com/user-attachments/assets/bd7ac726-b7dc-4053-b609-140702f4e7ee)
+![Capture1](https://github.com/user-attachments/assets/2602b90f-bd57-4538-9227-8c0120ee11f7)
 
 plan footer : 
 
-![Capture1](https://github.com/user-attachments/assets/2602b90f-bd57-4538-9227-8c0120ee11f7)
+![Capture](https://github.com/user-attachments/assets/bd7ac726-b7dc-4053-b609-140702f4e7ee)
